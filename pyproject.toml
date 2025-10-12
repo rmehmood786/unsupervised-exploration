@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unsup"
+version = "0.1.0"
+description = "Research-style unsupervised learning toolkit and reproducible experiments"
+authors = [{name="Your Name"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+    "umap-learn",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
