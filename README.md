@@ -1,13 +1,11 @@
-# Unsupervised Learning: From Lab Notebook to Research-Style Project
+# Unsupervised Learning: Research-Style Project
 
-This repository elevates the original Jupyter notebook **“Lab 8 – Unsupervised learning.ipynb”** into a clean, reproducible, and extensible project suitable for ML/AI research internship applications.
 
 ## What’s inside
 - **Modular library (`src/unsup/`)** for embeddings (PCA, t‑SNE, UMAP), clustering (KMeans, DBSCAN, Agglomerative, GMM), evaluation, and visualization.
 - **Reproducible scripts** for running experiments and saving metrics/figures.
 - **Unit tests** to show engineering discipline.
 - **Makefile** with common tasks; `pyproject.toml` for packaging; **MIT license**.
-- **Original notebook** is preserved in `notebooks/` for interactive exploration.
 
 > Detected in your notebook: **Algorithms** → PCA. **Datasets** → MNIST.
   (The codebase supports more methods out of the box.)
