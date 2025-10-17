@@ -47,4 +47,4 @@ Running `make run` produces:
 - **Software craft**: add CI (GitHub Actions), pre-commit hooks, and docstrings with `pdoc` or `sphinx`.
 
 ## Credits
-Original work adapted from the provided notebook. This repo generalizes it into a research-friendly, reproducible codebase.
+Feel free to use the code with proper credit
