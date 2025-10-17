@@ -7,7 +7,7 @@
 - **Unit tests** to show engineering discipline.
 - **Makefile** with common tasks; `pyproject.toml` for packaging; **MIT license**.
 
-> Detected in your notebook: **Algorithms** → PCA. **Datasets** → MNIST.
+> **Algorithms** → PCA. **Datasets** → MNIST.
   (The codebase supports more methods out of the box.)
 
 ## Quickstart
