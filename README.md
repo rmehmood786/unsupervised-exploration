@@ -8,7 +8,7 @@
 - **Makefile** with common tasks; `pyproject.toml` for packaging; **MIT license**.
 
 >
-  (The codebase supports more methods out of the box.)
+  (The codebase supports many unsupervised methods to try and play.)
 
 ## Quickstart
 ```bash
